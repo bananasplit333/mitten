@@ -13,6 +13,8 @@ RUN pip install --upgrade pip && \
     "langchain-openai==0.3.11" \
     "langchain-pinecone==0.2.12" \
     "pinecone-client==4.0.0"\
+    "openai>1.0.0" \
+    "Python-dotenv" \
     jupyter
 # copy your code into the container (optional for now)
 COPY . .
