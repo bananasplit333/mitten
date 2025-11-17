@@ -1,0 +1,49 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "sentiment": "positive",
+      "text": "I absolutely love my new WidgetWorld ProMax! The build quality is excellent and setup was a breeze. Customer support even followed up to make sure everything was working perfectly. Highly recommend!"
+    },
+    {
+      "id": 2,
+      "sentiment": "positive",
+      "text": "WidgetWorld really gets it — affordable, well-designed widgets that actually do what they promise. Shipping was fast and I even got a little thank-you note in the box!"
+    },
+    {
+      "id": 3,
+      "sentiment": "positive",
+      "text": "Great experience from start to finish. The website was easy to navigate, and the widget works even better than expected. Five stars from me!"
+    },
+    {
+      "id": 4,
+      "sentiment": "neutral",
+      "text": "The widget I bought works fine, though I wish there were more color options. Delivery took a bit longer than expected, but not a huge deal."
+    },
+    {
+      "id": 5,
+      "sentiment": "neutral",
+      "text": "It’s okay. Does what it says, nothing more, nothing less. Packaging could be improved but overall decent for the price."
+    },
+    {
+      "id": 6,
+      "sentiment": "neutral",
+      "text": "Average experience. The product functions as described, but I wasn’t particularly impressed. I might try another brand next time."
+    },
+    {
+      "id": 7,
+      "sentiment": "negative",
+      "text": "Really disappointed. My widget stopped working after a week and customer service hasn’t responded to my emails. Not worth the money."
+    },
+    {
+      "id": 8,
+      "sentiment": "negative",
+      "text": "The item arrived damaged and it took forever to get a replacement. Communication was poor throughout the process."
+    },
+    {
+      "id": 9,
+      "sentiment": "negative",
+      "text": "I expected better quality from WidgetWorld. The materials feel cheap and it doesn’t perform like advertised."
+    }
+  ]
+}
