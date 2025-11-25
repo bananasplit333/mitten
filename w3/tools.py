@@ -96,3 +96,5 @@ def convert_currency(amount: float, fromCurrency: CurrencyCode, toCurrency: Lite
     print(total)
     return total
 
+
+
