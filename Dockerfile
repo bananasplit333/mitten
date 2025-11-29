@@ -12,14 +12,16 @@ RUN pip install --upgrade pip && \
     "langchain-core==0.3.79" \
     "langchain-openai==0.3.11" \
     "langchain-pinecone==0.2.12" \
-    "pinecone-client==4.0.0"\
+    "pinecone-client==4.0.0" \
     "openai>1.0.0" \
-    "Python-dotenv" \
+    "python-dotenv" \
     "tavily-python" \
     "langchain_core" \
     "langchain_pinecone" \
     "ebooklib" \
-    "html2txt" \
+    "html2text" \
+    "langchain_community" \
+    "chromadb" \
     jupyter
 # copy your code into the container (optional for now)
 COPY . .

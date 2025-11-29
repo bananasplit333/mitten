@@ -4,6 +4,7 @@ services:
   notebook:
     image: gauntlet-course
     container_name: gauntlet-notebook
+    build: .
     ports:
       - "8888:8888"
     volumes:
