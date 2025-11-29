@@ -16,6 +16,10 @@ RUN pip install --upgrade pip && \
     "openai>1.0.0" \
     "Python-dotenv" \
     "tavily-python" \
+    "langchain_core" \
+    "langchain_pinecone" \
+    "ebooklib" \
+    "html2txt" \
     jupyter
 # copy your code into the container (optional for now)
 COPY . .

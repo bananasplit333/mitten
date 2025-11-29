@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  notebook:
+    image: gauntlet-course
+    container_name: gauntlet-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/app
+      - /Users/nihao/Nextcloud/Documents/Hobbies/ebooks:/ebooks
+      - /Users/nihao/Nextcloud/Documents/Hobbies/ebook_outputs:/outputs
+    restart: unless-stopped
+
