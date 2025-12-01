@@ -1,1 +1,1 @@
-from .tools import quadratic_calculator, fib_list, convert_currency
+from .tools import quadratic_calculator, fib_list, convert_currency, query_library, search_web
